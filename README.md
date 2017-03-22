@@ -1,0 +1,1 @@
+# go-vague-time [![Build Status](https://travis-ci.org/mhemmings/go-vague-time.svg?branch=master)](https://travis-ci.org/mhemmings/go-vague-time) [![GoDoc](https://godoc.org/github.com/mhemmings/go-vague-time?status.svg)](https://godoc.org/github.com/mhemmings/go-vague-time)
